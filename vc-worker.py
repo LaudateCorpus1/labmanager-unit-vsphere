@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from web.settings import Settings as settings
 import logging
 
